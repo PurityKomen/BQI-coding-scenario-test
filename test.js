@@ -62,7 +62,7 @@ function getAdultNames(users) {
 }
 
 const users = [
-    { name: 'John', age: 25 },
+    { name: 'John', age: 25 }, 
     { name: 'Jane', age: 17 }
 ];
 console.log(getAdultNames(users)); // Output: ['John']
